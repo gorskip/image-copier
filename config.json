@@ -1,0 +1,14 @@
+{
+  "csvFilePath": "D:/development/ks demo/cennik.csv",
+  "imageDirPath":"D:/development/ks demo/images",
+  "outputDirPath": "D:/development/ks demo/output",
+
+  "imageNameColumn": 3,
+  "columnOrder": [0, 3, 4],
+
+  "bigFileExtension": "png",
+  "bigFileSuffix": "_big",
+
+  "smallFileExtension": "jpg",
+  "smallFileSuffix": "_small"
+}
